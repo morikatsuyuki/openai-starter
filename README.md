@@ -1,5 +1,5 @@
 ```sh
-git clone [this git-url]
+git clone [this git-repo]
 npm install
 ```
 - Set your API-KEY
