@@ -1,5 +1,5 @@
 ```sh
-git clone [this git-repo]
+git clone [this git-repo] # gh repo clone morikatsuyuki/openai-starter
 npm install
 ```
 - Set your API-KEY
